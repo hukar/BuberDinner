@@ -24,3 +24,12 @@
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.pdb
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.genruntimeconfig.cache
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/ref/BuberDinner.Api.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Application.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Contracts.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Infrastructure.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Application.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Contracts.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.CopyComplete

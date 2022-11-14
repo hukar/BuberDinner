@@ -10,3 +10,6 @@
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/refint/BuberDinner.Application.dll
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.pdb
 /Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/ref/BuberDinner.Application.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CopyComplete

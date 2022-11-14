@@ -1,0 +1,22 @@
+@root = http://localhost:5260/auth
+
+POST {{root}}/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Hukar",
+    "lastName": "Engine",
+    "email": "hukar@gmail.com",
+    "password": "h$$k@rrr99"
+}
+
+###
+
+POST {{root}}/login HTTP/1.1
+Content-Type: application/json
+
+{
+
+    "email": "hukar@gmail.com",
+    "password": "h$$k@rrr99"
+}
