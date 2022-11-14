@@ -1,0 +1,12 @@
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.deps.json
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/refint/BuberDinner.Infrastructure.dll
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/Users/kms/Documents/programmation-tuto/dotnet/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/ref/BuberDinner.Infrastructure.dll
